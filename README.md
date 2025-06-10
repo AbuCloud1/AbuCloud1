@@ -90,7 +90,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/abubaker-omer-939462185/" height="40" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
 ###
